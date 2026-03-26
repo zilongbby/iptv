@@ -1,2 +1,3 @@
 http://192.168.3.24:50089/playlist/m3u/60.187.247.10:9901
-
+http://192.168.3.24:50089/playlist/m3u/60.187.246.215:9901
+https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1774495626&k=83cf7f2cfd41ba3f861c26504a80f66e
