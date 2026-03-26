@@ -1,1 +1,8 @@
+#EXTM3U
+
+# 你原来的完整直播列表
 http://192.168.3.24:50089/playlist/m3u/60.187.247.10:9901
+
+# 你新加的河北农民频道
+#EXTINF:-1,河北农民频道(带鉴权)
+https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1774492454&k=062a11c3d83988b273a9bad190f88a69
