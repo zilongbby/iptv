@@ -1,4 +1,5 @@
 #EXTM3U
+http://27.185.1.27:8092/hls/16/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="adminCCTV1.png",CCTV1
 http://183.185.151.17:9003/hls/1/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="adminCCTV1.png",CCTV1
