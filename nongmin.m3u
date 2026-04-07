@@ -6,6 +6,8 @@
 http://60.3.123.84:7000/rtp/239.253.92.176:6006
 #EXTINF:-1 tvg-id="HEBEI-FARMER" tvg-name="河北农民高清" group-title="河北",河北农民高清
 http://60.0.84.130:9999/rtp/239.253.92.176:6006
+#EXTINF:-1 tvg-id="HEBEI-FARMER" tvg-name="河北农民高清" group-title="河北",河北农民高清
+http://60.4.30.133:4000/rtp/239.253.92.176:6006
 
 
 
